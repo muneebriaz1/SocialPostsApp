@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Posts</string>
+    <string name="network_not_connected_msg">Network not connected, Please try again later.</string>
+    <string name="lbl_yes">YES</string>
+    <string name="lbl_no">NO</string>
+    <string name="lbl_loading">Loading…</string>
+    <string name="lbl_dummy">XXXXXXX</string>
+    <string name="msg_no_post">No social post available</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.SocialPostsApp" parent="Theme.Material3.Dark">
+        <!-- Action Bar -->
+        <item name="colorSurface">@color/colorPrimary</item>
+        <item name="colorOnSurface">@color/colorWhite</item>
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+
+        <item name="android:windowBackground">@color/colorSecondary</item>
+    </style>
+
+</resources>
